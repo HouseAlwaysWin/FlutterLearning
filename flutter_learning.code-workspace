@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "meals_app"
+		},
+		{
+			"path": "shop_app"
 		}
 	],
 	"settings": {}
